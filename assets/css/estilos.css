@@ -1,0 +1,18 @@
+header{
+    text-align: center;
+    /* position: fixed; */
+}
+/* #tag para llamar a un id*/
+#nav p {
+    display: inline;
+}
+
+.secciones {
+
+}
+/* .tag para llamar a una class*/
+.pipeline_header{
+    color: blue;
+    font-size: larger;
+
+}
